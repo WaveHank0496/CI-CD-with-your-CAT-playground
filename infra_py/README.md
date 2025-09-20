@@ -62,7 +62,7 @@ npm run build
 
 ```bash
 cd infra_py
-cdk synth
+cdk synthsce3r
 cdk deploy
 ```
 
